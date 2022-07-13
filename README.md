@@ -1,4 +1,4 @@
-Hi 👋 My name is Mark Benliyan 
+Hey 👋 My name is Mark Benliyan 
 ==============================
 Computer Science & Linguistics @ UCLA 
 ----------------  

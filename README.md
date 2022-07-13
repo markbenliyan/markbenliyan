@@ -1,10 +1,9 @@
 Hey 👋 My name is Mark Benliyan 
-==============================
-Computer Science & Linguistics @ UCLA 
-----------------  
-* 🌍  I'm based in Los Angeles, California 
-* ✉️  You can contact me at [mjbenliyan@gmail.com](mailto:mjbenliyan@gmail.com) 
+============================== 
+* 🌍  I'm born and raised in Los Angeles, California 
 * 🚀  I'm currently working on <i>backend recommendations</i> at [Tinder](http://tinder.com) and developing <i>single sign-on connectors</i> at [Clever](http://clever.com)
+* 📚  I'm studying <i>Computer Science & Linguistics</i> at the [University of California, Los Angeles](http://ucla.edu) (UCLA)
+* ✉️  You can contact me at [mjbenliyan@gmail.com](mailto:mjbenliyan@gmail.com)
 
 ### Skills
 
